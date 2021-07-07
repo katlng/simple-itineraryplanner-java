@@ -1,0 +1,6 @@
+*.class
+
+workspace.xml
+
+- create an option where, if you want to add a new daily itinerary to a key in the hashmap that already has a value,
+  ask if the user is sure they want to overwrite the old daily itinerary
